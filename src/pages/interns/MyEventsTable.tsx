@@ -261,6 +261,7 @@ const MyEventsTable = () => {
                   paginationModel: { page: 0, pageSize: 5 },
                 },
               }}
+              
               classes={{
                 root: "bg-white dark:bg-gray-800",
                 columnHeader: "bg-gray-200 dark:bg-gray-800 ",
